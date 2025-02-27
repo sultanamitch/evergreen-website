@@ -1,0 +1,48 @@
+HTTrack3.49-2 launched on Thu, 27 Feb 2025 10:58:31 at https://evergreendevelopmentnv.com
+(httrack https://evergreendevelopmentnv.com -O ./evergreen_site )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:01:44	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=78
+11:01:44	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=78 to https://evergreendevelopmentnv.com/about-michigan-home-builders/
+11:01:44	Error: 	"Not Found" (404) at link https://evergreendevelopmentnv.com/category/wp-content/uploads/2015/12/logo_mini.jpg (from https://evergreendevelopmentnv.com/category/blog/)
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=82
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=82 to https://evergreendevelopmentnv.com/contact-us/
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=49
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=49 to https://evergreendevelopmentnv.com/home-construction-capabilities/
+11:01:56	Error: 	"Not Found" (404) at link https://evergreendevelopmentnv.com/renovations-and-remodeling/ (from https://evergreendevelopmentnv.com/home-construction-capabilities/)
+11:01:56	Error: 	"Not Found" (404) at link https://evergreendevelopmentnv.com/infill-building/ (from https://evergreendevelopmentnv.com/home-construction-capabilities/)
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=123
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=123 to https://evergreendevelopmentnv.com/custom-home-construction/
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=128
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=128 to https://evergreendevelopmentnv.com/home-renovation-and-remodeling/
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=126
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=126 to https://evergreendevelopmentnv.com/infill-development/
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=88
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=88 to https://evergreendevelopmentnv.com/custom-home-building-experience/
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=73
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=73 to https://evergreendevelopmentnv.com/property-for-sale-in-michigan/
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=136
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=136 to https://evergreendevelopmentnv.com/building-communities-we-serve/
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=138
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=138 to https://evergreendevelopmentnv.com/custom-home-communities-built/
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=98
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=98 to https://evergreendevelopmentnv.com/custom-homes-gallery/
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=58
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=58 to https://evergreendevelopmentnv.com/custom-home-resources/
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=442
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=442 to https://evergreendevelopmentnv.com/blog/top-5-reasons-choose-evergreen-development-nv-llc/
+11:01:56	Error: 	"Not Found" (404) at link https://evergreendevelopmentnv.com/blog/wp-content/uploads/2015/12/logo_mini.jpg (from https://evergreendevelopmentnv.com/blog/top-5-reasons-choose-evergreen-development-nv-llc/)
+11:01:56	Warning: 	Found for https://evergreendevelopmentnv.com/blog/top-5-reasons-choose-evergreen-development-nv-llc/trackback/
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/blog/top-5-reasons-choose-evergreen-development-nv-llc/trackback/ to https://evergreendevelopmentnv.com/blog/top-5-reasons-choose-evergreen-development-nv-llc/
+11:01:56	Error: 	"Not Found" (404) at link https://evergreendevelopmentnv.com/author/wp-content/uploads/2015/12/logo_mini.jpg (from https://evergreendevelopmentnv.com/author/mthurber/)
+11:01:56	Warning: 	Moved Permanently for https://evergreendevelopmentnv.com/?p=431
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/?p=431 to https://evergreendevelopmentnv.com/blog/yearly-home-maintenance-tips/
+11:01:56	Warning: 	Found for https://evergreendevelopmentnv.com/blog/yearly-home-maintenance-tips/trackback/
+11:01:56	Warning: 	File has moved from https://evergreendevelopmentnv.com/blog/yearly-home-maintenance-tips/trackback/ to https://evergreendevelopmentnv.com/blog/yearly-home-maintenance-tips/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 25 seconds : 229 links scanned, 207 files written (36544235 bytes overall) [35450218 bytes received at 172927 bytes/sec], 1710600 bytes transferred using HTTP compression in 58 files, ratio 24%, 7.4 requests per connection
+(5 errors, 32 warnings, 0 messages)

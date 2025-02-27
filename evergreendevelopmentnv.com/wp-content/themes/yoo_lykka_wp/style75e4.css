@@ -1,0 +1,47 @@
+/**
+ * Theme Name: Lykka
+ * Theme URI: http://www.yootheme.com
+ * Description: Lykka is the June 2015 theme of the YOOtheme club. It is based on YOOtheme's Warp theme framework. NOTE: It is not free or public. This theme is for members of the YOOtheme club only.
+ * Version: 1.0.4
+ * Author: YOOtheme
+ * Author URI: http://www.yootheme.com
+ */
+
+
+/* CB Logo
+ ****************************************/
+
+.cb-logo {
+	display: none;
+	float: left;
+	margin-top: 90px;
+	height: 100%;
+	-webkit-transition: width 0.2s;
+	transition: margin 0.2s;
+}
+
+.tm-navbar-small .cb-logo {
+	margin-top: 22px;
+}
+
+.cb-logo img {
+	float: left;
+	margin-right: 10px;
+}
+
+.cb-logo div.cb-text-block {
+	color: #D7B55A;
+	font-size: 10px;
+	line-height: 12px;
+	float: left;
+}
+
+.cb-logo div.cb-text-block span {
+	display: block;
+}
+
+@media (min-width: 1232px) {
+	.cb-logo {
+		display: block;
+	}
+}

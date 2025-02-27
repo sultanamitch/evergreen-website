@@ -1,0 +1,94 @@
+/* Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+/* ========================================================================
+   Use this file to add custom CSS easily
+ ========================================================================== */
+ 
+ /*Nav toolbar background color*/
+ .tm-toolbar {  
+  background: #263c61;  
+}
+/*Nav toolbar link color*/
+.tm-toolbar a{
+	color: #6699ff!important;
+	font-family: "Ubuntu Condensed";
+	}
+.testimonials_bg{	
+background-color: #aea4a0!important;
+}
+
+ /*Ninja form styling*/
+
+.ninja-forms-field {
+	height: 38px!important;
+	max-width: 100%!important;
+	padding: 4px 6px!important;
+	border: 1px solid rgba(193, 190, 185, 1)!important;
+	background: transparent none repeat scroll 0% 0%!important;
+	color: rgba(132, 130, 128, 0.5)!important;
+	transition: all 0.2s linear 0s!important;
+	color: #736B68!important;
+	font-size: 14px!important;
+	} 
+
+.ninja-forms-field:focus{
+	border: 1px solid #736B68!important;
+	}
+	
+.textarea-wrap textarea{
+	min-height: 200px!important;
+	}
+.submit-wrap input{	
+	margin: 0px!important;
+	font-style: inherit!important;
+	font-weight: inherit!important;
+	font-size-adjust: inherit!important;
+	font-stretch: inherit!important;
+	font-feature-settings: inherit!important;
+	font-language-override: inherit!important;
+	font-kerning: inherit!important;
+	font-synthesis: inherit!important;
+	font-variant: inherit!important;
+	color: #848280!important;
+	display: inline-block!important;
+	box-sizing: border-box!important;
+	padding: 0px 12px!important;
+	background: transparent none repeat scroll 0% 0%!important;
+	vertical-align: middle!important;
+	line-height: 36px!important;
+	min-height: 36px!important;
+	font-size: 12px!important;
+	text-decoration: none!important;
+	text-align: center!important;
+	border: 1px solid #736B68!important;
+	font-family: "Ubuntu Condensed"!important;
+	text-transform: uppercase!important;
+	letter-spacing: 2px!important;
+	position: relative!important;
+	overflow: hidden!important;
+	z-index: 0!important;
+	transition: background 0.3s ease 0s, color 0.3s ease-in-out 0s!important;
+}
+
+.submit-wrap:hover{
+    background-color: transparent!important;
+    color: #848280!important;
+    outline: medium none!important;
+    text-decoration: none!important;
+}
+
+
+.tm-navbar-fixed .tm-toolbar + .tm-block {
+	 padding-top: 0px; 
+	 
+}  
+
+
+.tm-navbar-fixed .tm-toolbar {
+	 box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+	 
+}
+
+em {
+    color: #ffffff !important;
+}
